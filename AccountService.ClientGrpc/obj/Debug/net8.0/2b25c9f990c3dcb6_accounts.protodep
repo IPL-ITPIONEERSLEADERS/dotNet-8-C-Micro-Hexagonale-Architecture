@@ -1,0 +1,2 @@
+obj\Debug\net8.0/Accounts.cs \
+obj\Debug\net8.0/AccountsGrpc.cs: ../AccountService.Application.Grpc/Protos/accounts.proto

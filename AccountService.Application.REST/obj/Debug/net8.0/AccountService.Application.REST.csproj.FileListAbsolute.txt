@@ -36,3 +36,4 @@ C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\D
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.pdb
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\ref\AccountService.Application.REST.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.sourcelink.json

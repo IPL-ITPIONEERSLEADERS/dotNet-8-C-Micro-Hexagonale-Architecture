@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\BeBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}|AccountService.Application.REST\\AccountService.Application.REST.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}|AccountService.Application.REST\\AccountService.Application.REST.csproj|solutionrelative:accountservice.application.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}|AccountService.ClientGrpc\\AccountService.ClientGrpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.clientgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}|AccountService.ClientGrpc\\AccountService.ClientGrpc.csproj|solutionrelative:accountservice.clientgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\services\\accountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|solutionrelative:accountservice.application.grpc\\services\\accountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}|AccountService.ClientGrpc\\AccountService.ClientGrpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\protos\\accounts.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}|AccountService.ClientGrpc\\AccountService.ClientGrpc.csproj|solutionrelative:accountservice.application.grpc\\protos\\accounts.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}|AccountService.Application.REST\\AccountService.Application.REST.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.rest\\controllers\\accountsrestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}|AccountService.Application.REST\\AccountService.Application.REST.csproj|solutionrelative:accountservice.application.rest\\controllers\\accountsrestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D981CA3-265A-4B0D-B929-4CC4930B8DAB}|AccountService.ES\\AccountService.ES.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.es\\impl\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D981CA3-265A-4B0D-B929-4CC4930B8DAB}|AccountService.ES\\AccountService.ES.csproj|solutionrelative:accountservice.es\\impl\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.REST\\Program.cs",
-              "RelativeDocumentMoniker": "AccountService.Application.REST\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.REST\\Program.cs",
-              "RelativeToolTip": "AccountService.Application.REST\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AccountGrpcService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
+              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
+              "RelativeToolTip": "AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T11:26:04.783Z",
+              "WhenOpened": "2025-11-27T12:23:24.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "accounts.proto",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Protos\\accounts.proto",
+              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\Protos\\accounts.proto",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Protos\\accounts.proto",
+              "RelativeToolTip": "AccountService.Application.Grpc\\Protos\\accounts.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-11-27T12:13:48.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ClientGrpc\\Program.cs",
+              "RelativeDocumentMoniker": "AccountService.ClientGrpc\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ClientGrpc\\Program.cs",
+              "RelativeToolTip": "AccountService.ClientGrpc\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:10:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AccountsRestController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
               "RelativeDocumentMoniker": "AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
               "RelativeToolTip": "AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T11:19:48.502Z",
+              "WhenOpened": "2025-11-27T11:55:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ES\\Impl\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "AccountService.ES\\Impl\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ES\\Impl\\AccountRepository.cs",
+              "RelativeToolTip": "AccountService.ES\\Impl\\AccountRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:47:39.937Z",
               "EditorCaption": ""
             }
           ]

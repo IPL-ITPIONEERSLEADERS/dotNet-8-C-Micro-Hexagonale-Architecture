@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "AccountService.Application.Grpc";
+
+package accounts;
+
+service AccountService {
+  rpc GetAccountById (GetAccountRequest) returns (AccountResponse);
+}
+
+message GetAccountRequest {
+  string id = 1;
+}
+
+message AccountResponse {
+  string id = 1;
+  string customerId = 2;
+  double balance = 3;
+  bool isClosed = 4;
+}

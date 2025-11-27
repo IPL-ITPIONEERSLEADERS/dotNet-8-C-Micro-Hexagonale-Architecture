@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mZ/t0T8236ZrlrLRkH9znuyb7tkauoK1Bs83ojSzkkw=",
+  "Source": "AccountService.Application.Grpc",
+  "BasePath": "_content/AccountService.Application.Grpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

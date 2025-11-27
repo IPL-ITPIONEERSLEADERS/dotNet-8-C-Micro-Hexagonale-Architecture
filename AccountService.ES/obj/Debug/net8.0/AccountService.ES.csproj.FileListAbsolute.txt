@@ -15,3 +15,4 @@ C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\Ac
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\refint\AccountService.ES.dll
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.pdb
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\ref\AccountService.ES.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.sourcelink.json

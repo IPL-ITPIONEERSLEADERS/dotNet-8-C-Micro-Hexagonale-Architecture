@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountService.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702436244cfdb432da7b5d92144f9b3a5b9b58dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

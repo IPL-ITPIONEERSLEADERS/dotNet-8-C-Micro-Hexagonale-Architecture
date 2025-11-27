@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Domain", "AccountService.Domain\AccountService.Domain.csproj", "{F825EC91-39F4-490E-A0B1-281361CED5F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountService.Domain", "AccountService.Domain\AccountService.Domain.csproj", "{F825EC91-39F4-490E-A0B1-281361CED5F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{18C37D5D-4E51-414C-AAA0-9BFE887E54F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{18C37D5D-4E51-414C-AAA0-9BFE887E54F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.ES", "AccountService.ES\AccountService.ES.csproj", "{4D981CA3-265A-4B0D-B929-4CC4930B8DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountService.ES", "AccountService.ES\AccountService.ES.csproj", "{4D981CA3-265A-4B0D-B929-4CC4930B8DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Application.REST", "AccountService.Application.REST\AccountService.Application.REST.csproj", "{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountService.Application.REST", "AccountService.Application.REST\AccountService.Application.REST.csproj", "{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Application.Grpc", "AccountService.Application.Grpc\AccountService.Application.Grpc.csproj", "{50D58272-4689-4FAB-83B4-C8EAFEC4F545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.ClientGrpc", "AccountService.ClientGrpc\AccountService.ClientGrpc.csproj", "{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D58272-4689-4FAB-83B4-C8EAFEC4F545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D58272-4689-4FAB-83B4-C8EAFEC4F545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D58272-4689-4FAB-83B4-C8EAFEC4F545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D58272-4689-4FAB-83B4-C8EAFEC4F545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
