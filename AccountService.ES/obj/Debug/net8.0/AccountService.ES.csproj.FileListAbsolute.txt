@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\AccountService.ES.deps.json
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\AccountService.ES.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\AccountService.ES.pdb
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\AccountService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\Common.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\AccountService.Domain.pdb
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\bin\Debug\net8.0\Common.pdb
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountS.D6324118.Up2Date
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\refint\AccountService.ES.dll
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.pdb
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\ref\AccountService.ES.dll

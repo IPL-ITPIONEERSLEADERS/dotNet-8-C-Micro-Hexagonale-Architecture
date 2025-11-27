@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xvB8whr3++5oEgCBgD5N2ZIGLFVPT0kS1u6EaJYGRzY=",
+  "Source": "AccountService.Application.REST",
+  "BasePath": "_content/AccountService.Application.REST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
