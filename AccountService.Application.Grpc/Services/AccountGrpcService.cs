@@ -2,18 +2,18 @@
 using AccountService.ES.Contracts;
 using Grpc.Core;
 
-namespace AccountService.Application.Grpc.Services
+namespace AccountService.Application.Grpc
 {
     public class AccountGrpcService : AccountService.AccountServiceBase
     {
-        private readonly IAccountRepository _repository;
+        // private readonly IAccountRepository _repository;
 
-        public AccountGrpcService(IAccountRepository repository)
+        public AccountGrpcService() //(IAccountRepository repository)
         {
-            _repository = repository;
+            // _repository = repository;
         }
 
-        public override async Task<AccountResponse> GetAccountById(GetAccountRequest request, ServerCallContext context)
+        public override Task<AccountResponse> GetAccountById(GetAccountRequest request, ServerCallContext context)
         {
             if (!Guid.TryParse(request.Id, out var id))
                 throw new RpcException(new Status(StatusCode.InvalidArgument, "Invalid UUID"));
@@ -24,10 +24,10 @@ namespace AccountService.Application.Grpc.Services
             if (account == null)
                 throw new RpcException(new Status(StatusCode.NotFound, "Account not found"));
 
-            return new AccountResponse
+            return Task.FromResult(new AccountResponse
             {
                 Id = request.Id,
-                CustomerId = null,
+                CustomerId = new Guid().ToString(),
                 Balance = 300,
                 IsClosed = false
                 /*
@@ -36,7 +36,7 @@ namespace AccountService.Application.Grpc.Services
                 Balance = (double)account.GetBalance(),
                 IsClosed = account.IsClosed()
                 */
-            };
+            });
         }
     }
 }

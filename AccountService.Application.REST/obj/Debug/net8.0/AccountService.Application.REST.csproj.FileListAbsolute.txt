@@ -22,6 +22,7 @@ C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\D
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.sourcelink.json
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\staticwebassets\msbuild.AccountService.Application.REST.Microsoft.AspNetCore.StaticWebAssets.props
@@ -36,4 +37,3 @@ C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\D
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.pdb
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\ref\AccountService.Application.REST.dll
-C:\Users\Administrator\source\repos\BeBank\AccountService.Application.REST\obj\Debug\net8.0\AccountService.Application.REST.sourcelink.json

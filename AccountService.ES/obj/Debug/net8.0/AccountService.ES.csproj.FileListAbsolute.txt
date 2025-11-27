@@ -10,9 +10,9 @@ C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\Ac
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.sourcelink.json
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountS.D6324118.Up2Date
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.dll
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\refint\AccountService.ES.dll
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.pdb
 C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\ref\AccountService.ES.dll
-C:\Users\Administrator\source\repos\BeBank\AccountService.ES\obj\Debug\net8.0\AccountService.ES.sourcelink.json
