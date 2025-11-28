@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountService.ClientGrpc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54ad73ba739c305f9902162d499fbeb3a9e4caf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a45cb79629a7c2d413d5ab44b2962b5f4b91f417")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountService.ClientGrpc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountService.ClientGrpc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

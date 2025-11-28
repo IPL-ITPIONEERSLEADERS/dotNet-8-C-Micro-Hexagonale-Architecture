@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\bin\Debug\net8.0\CardService.Domain.deps.json
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\bin\Debug\net8.0\CardService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\bin\Debug\net8.0\CardService.Domain.pdb
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\bin\Debug\net8.0\Common.dll
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\bin\Debug\net8.0\Common.pdb
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.sourcelink.json
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardServ.A4BA293A.Up2Date
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\refint\CardService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\CardService.Domain.pdb
+C:\Users\Administrator\source\repos\BeBank\CardService.Domain\obj\Debug\net8.0\ref\CardService.Domain.dll

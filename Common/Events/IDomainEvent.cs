@@ -6,5 +6,7 @@ using System.Threading.Tasks;
 
 namespace Common.Events
 {
-    public interface IDomainEvent { }
+    public interface IDomainEvent {
+        DateTime Timestamp { get; }
+    }
 }

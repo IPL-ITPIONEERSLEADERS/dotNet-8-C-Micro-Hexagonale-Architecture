@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\BeBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\services\\accountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|solutionrelative:accountservice.application.grpc\\services\\accountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}|CardService.Infrastructure\\CardService.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.infrastructure\\impl\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}|CardService.Infrastructure\\CardService.Infrastructure.csproj|solutionrelative:cardservice.infrastructure\\impl\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|solutionrelative:accountservice.application.grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB8DB898-9B33-444B-AA75-568261545DD8}|CardService.ClientRabbitMq\\CardService.ClientRabbitMq.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.clientrabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8DB898-9B33-444B-AA75-568261545DD8}|CardService.ClientRabbitMq\\CardService.ClientRabbitMq.csproj|solutionrelative:cardservice.clientrabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\protos\\accounts.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|solutionrelative:accountservice.application.grpc\\protos\\accounts.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}|CardService.Infrastructure\\CardService.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.infrastructure\\impl\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}|CardService.Infrastructure\\CardService.Infrastructure.csproj|solutionrelative:cardservice.infrastructure\\impl\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\obj\\Debug\\net8.0\\Protos\\Accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountService.Application.Grpc\\obj\\Debug\\net8.0\\Protos\\Accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}|CardService.Infrastructure\\CardService.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.infrastructure\\impl\\eventstoredbeventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}|CardService.Infrastructure\\CardService.Infrastructure.csproj|solutionrelative:cardservice.infrastructure\\impl\\eventstoredbeventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}|AccountService.ClientGrpc\\AccountService.ClientGrpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.clientgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECEE40CF-8137-4D20-9C8A-B5C61B4E85E2}|AccountService.ClientGrpc\\AccountService.ClientGrpc.csproj|solutionrelative:accountservice.clientgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{078C2ACE-38F0-4CC3-B488-6C629335E18D}|CardService.Domain\\CardService.Domain.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.domain\\events\\cardissued.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078C2ACE-38F0-4CC3-B488-6C629335E18D}|CardService.Domain\\CardService.Domain.csproj|solutionrelative:cardservice.domain\\events\\cardissued.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|solutionrelative:accountservice.application.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18C37D5D-4E51-414C-AAA0-9BFE887E54F2}|Common\\Common.csproj|c:\\users\\administrator\\source\\repos\\bebank\\common\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C37D5D-4E51-414C-AAA0-9BFE887E54F2}|Common\\Common.csproj|solutionrelative:common\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.grpc\\accountservice.application.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50D58272-4689-4FAB-83B4-C8EAFEC4F545}|AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj|solutionrelative:accountservice.application.grpc\\accountservice.application.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B83F8CD0-BD2E-487B-BC5B-F707EF79CABA}|CardService.Application\\CardService.Application.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.application\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83F8CD0-BD2E-487B-BC5B-F707EF79CABA}|CardService.Application\\CardService.Application.csproj|solutionrelative:cardservice.application\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}|AccountService.Application.REST\\AccountService.Application.REST.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.application.rest\\controllers\\accountsrestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A733D8BA-439B-4E4B-B489-349A8DC7A8CF}|AccountService.Application.REST\\AccountService.Application.REST.csproj|solutionrelative:accountservice.application.rest\\controllers\\accountsrestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{078C2ACE-38F0-4CC3-B488-6C629335E18D}|CardService.Domain\\CardService.Domain.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.domain\\entities\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078C2ACE-38F0-4CC3-B488-6C629335E18D}|CardService.Domain\\CardService.Domain.csproj|solutionrelative:cardservice.domain\\entities\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D981CA3-265A-4B0D-B929-4CC4930B8DAB}|AccountService.ES\\AccountService.ES.csproj|c:\\users\\administrator\\source\\repos\\bebank\\accountservice.es\\impl\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D981CA3-265A-4B0D-B929-4CC4930B8DAB}|AccountService.ES\\AccountService.ES.csproj|solutionrelative:accountservice.es\\impl\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B83F8CD0-BD2E-487B-BC5B-F707EF79CABA}|CardService.Application\\CardService.Application.csproj|c:\\users\\administrator\\source\\repos\\bebank\\cardservice.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83F8CD0-BD2E-487B-BC5B-F707EF79CABA}|CardService.Application\\CardService.Application.csproj|solutionrelative:cardservice.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Accounts.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\obj\\Debug\\net8.0\\Protos\\Accounts.cs",
-              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\obj\\Debug\\net8.0\\Protos\\Accounts.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\obj\\Debug\\net8.0\\Protos\\Accounts.cs",
-              "RelativeToolTip": "AccountService.Application.Grpc\\obj\\Debug\\net8.0\\Protos\\Accounts.cs",
-              "ViewState": "AgIAACABAAAAAAAAAAAcwCkBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T12:51:07.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Program.cs",
-              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Program.cs",
-              "RelativeToolTip": "AccountService.Application.Grpc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T12:39:00.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountService.Application.Grpc",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj",
-              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj",
-              "RelativeToolTip": "AccountService.Application.Grpc\\AccountService.Application.Grpc.csproj",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-27T12:37:16.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GreeterService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Services\\GreeterService.cs",
-              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\Services\\GreeterService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Services\\GreeterService.cs",
-              "RelativeToolTip": "AccountService.Application.Grpc\\Services\\GreeterService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAAiAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.ClientRabbitMq\\Program.cs",
+              "RelativeDocumentMoniker": "CardService.ClientRabbitMq\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.ClientRabbitMq\\Program.cs",
+              "RelativeToolTip": "CardService.ClientRabbitMq\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T12:34:32.303Z",
+              "WhenOpened": "2025-11-27T23:58:56.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountGrpcService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
-              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
-              "RelativeToolTip": "AccountService.Application.Grpc\\Services\\AccountGrpcService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBIAAAAQAAAAAAAAAA==",
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Infrastructure\\Impl\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "CardService.Infrastructure\\Impl\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Infrastructure\\Impl\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "CardService.Infrastructure\\Impl\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T12:23:24.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "accounts.proto",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Protos\\accounts.proto",
-              "RelativeDocumentMoniker": "AccountService.Application.Grpc\\Protos\\accounts.proto",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.Grpc\\Protos\\accounts.proto",
-              "RelativeToolTip": "AccountService.Application.Grpc\\Protos\\accounts.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-11-27T12:13:48.734Z",
+              "WhenOpened": "2025-11-27T23:57:26.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ClientGrpc\\Program.cs",
-              "RelativeDocumentMoniker": "AccountService.ClientGrpc\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ClientGrpc\\Program.cs",
-              "RelativeToolTip": "AccountService.ClientGrpc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Title": "CardIssued.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Domain\\Events\\CardIssued.cs",
+              "RelativeDocumentMoniker": "CardService.Domain\\Events\\CardIssued.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Domain\\Events\\CardIssued.cs",
+              "RelativeToolTip": "CardService.Domain\\Events\\CardIssued.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T12:10:14.175Z",
+              "WhenOpened": "2025-11-27T23:40:36.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\Common\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Common\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\Common\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "Common\\Events\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:39:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Infrastructure\\Impl\\CardRepository.cs",
+              "RelativeDocumentMoniker": "CardService.Infrastructure\\Impl\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Infrastructure\\Impl\\CardRepository.cs",
+              "RelativeToolTip": "CardService.Infrastructure\\Impl\\CardRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:32:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventStoreDBEventStore.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Infrastructure\\Impl\\EventStoreDBEventStore.cs",
+              "RelativeDocumentMoniker": "CardService.Infrastructure\\Impl\\EventStoreDBEventStore.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Infrastructure\\Impl\\EventStoreDBEventStore.cs",
+              "RelativeToolTip": "CardService.Infrastructure\\Impl\\EventStoreDBEventStore.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:31:41.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AccountsRestController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
-              "RelativeDocumentMoniker": "AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
-              "RelativeToolTip": "AccountService.Application.REST\\Controllers\\AccountsRestController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "CardDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Domain\\Entities\\CardDetails.cs",
+              "RelativeDocumentMoniker": "CardService.Domain\\Entities\\CardDetails.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Domain\\Entities\\CardDetails.cs",
+              "RelativeToolTip": "CardService.Domain\\Entities\\CardDetails.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T11:55:40.756Z"
+              "WhenOpened": "2025-11-27T23:00:06.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ES\\Impl\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "AccountService.ES\\Impl\\AccountRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\AccountService.ES\\Impl\\AccountRepository.cs",
-              "RelativeToolTip": "AccountService.ES\\Impl\\AccountRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Application\\Program.cs",
+              "RelativeDocumentMoniker": "CardService.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Application\\Program.cs",
+              "RelativeToolTip": "CardService.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T11:47:39.937Z"
+              "WhenOpened": "2025-11-27T22:23:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Application\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "CardService.Application\\Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BeBank\\CardService.Application\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "CardService.Application\\Controllers\\CardsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:18:36.365Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,6 @@
+@CardService.Application_HostAddress = http://localhost:5186
+
+GET {{CardService.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LX8knqoaTfhfzAHz4nCH1nuV5zkq5ow1W3Y0h4FsxR4=",
+  "Source": "CardService.Application",
+  "BasePath": "_content/CardService.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
