@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\bin\Debug\net8.0\WalletService.Domain.deps.json
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\bin\Debug\net8.0\WalletService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\bin\Debug\net8.0\WalletService.Domain.pdb
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\bin\Debug\net8.0\Common.dll
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\bin\Debug\net8.0\Common.pdb
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.sourcelink.json
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletSe.3D3945BD.Up2Date
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\refint\WalletService.Domain.dll
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\WalletService.Domain.pdb
+C:\Users\Administrator\source\repos\BeBank\WalletService.Domain\obj\Debug\net8.0\ref\WalletService.Domain.dll

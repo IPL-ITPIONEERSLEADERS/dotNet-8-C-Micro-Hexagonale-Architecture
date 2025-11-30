@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3SC+drgQkUiIMxK7wh6ay9iLi32E49ELjRK4gJlUcTg=",
+  "Source": "WalletService.Application.Command",
+  "BasePath": "_content/WalletService.Application.Command",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

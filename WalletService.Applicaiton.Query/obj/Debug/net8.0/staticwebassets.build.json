@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z/WAQJM6pnq0V1o3OVudQT4voCpn9U56+aaVjqCba7w=",
+  "Source": "WalletService.Application.Query",
+  "BasePath": "_content/WalletService.Application.Query",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

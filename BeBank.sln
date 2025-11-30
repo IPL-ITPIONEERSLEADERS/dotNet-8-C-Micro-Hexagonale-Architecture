@@ -19,9 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardService.Domain", "CardS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardService.Infrastructure", "CardService.Infrastructure\CardService.Infrastructure.csproj", "{BB541AB2-A08B-42E0-A6CD-71D1075B41D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardService.Application", "CardService.Application\CardService.Application.csproj", "{B83F8CD0-BD2E-487B-BC5B-F707EF79CABA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardService.Application", "CardService.Application\CardService.Application.csproj", "{B83F8CD0-BD2E-487B-BC5B-F707EF79CABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardService.ClientRabbitMq", "CardService.ClientRabbitMq\CardService.ClientRabbitMq.csproj", "{CB8DB898-9B33-444B-AA75-568261545DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardService.ClientRabbitMq", "CardService.ClientRabbitMq\CardService.ClientRabbitMq.csproj", "{CB8DB898-9B33-444B-AA75-568261545DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletService.Domain", "WalletService.Domain\WalletService.Domain.csproj", "{D8D520E4-A76A-44EB-A85C-A14E7F1B1D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletService.Infrastructure.EventStore", "WallletService.Infrastructure.EventStore\WalletService.Infrastructure.EventStore.csproj", "{1A1B8D37-6A8D-4AEE-AB03-B85B5D2EB31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletService.Infrastructure.Projection", "WalletService.Infrastructure.Projection\WalletService.Infrastructure.Projection.csproj", "{5125CF28-246A-48B9-BA29-9E1183438C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletService.Application.Command", "WalletService.Application.Command\WalletService.Application.Command.csproj", "{318F57F7-876E-4CB5-89AE-82F7D72ED222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletService.Application.Query", "WalletService.Applicaiton.Query\WalletService.Application.Query.csproj", "{CE5E00B4-EBF6-4086-AECA-0AE7BC6DF525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +79,26 @@ Global
 		{CB8DB898-9B33-444B-AA75-568261545DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB8DB898-9B33-444B-AA75-568261545DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB8DB898-9B33-444B-AA75-568261545DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D520E4-A76A-44EB-A85C-A14E7F1B1D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D520E4-A76A-44EB-A85C-A14E7F1B1D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D520E4-A76A-44EB-A85C-A14E7F1B1D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D520E4-A76A-44EB-A85C-A14E7F1B1D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1B8D37-6A8D-4AEE-AB03-B85B5D2EB31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1B8D37-6A8D-4AEE-AB03-B85B5D2EB31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1B8D37-6A8D-4AEE-AB03-B85B5D2EB31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1B8D37-6A8D-4AEE-AB03-B85B5D2EB31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5125CF28-246A-48B9-BA29-9E1183438C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5125CF28-246A-48B9-BA29-9E1183438C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5125CF28-246A-48B9-BA29-9E1183438C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5125CF28-246A-48B9-BA29-9E1183438C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318F57F7-876E-4CB5-89AE-82F7D72ED222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318F57F7-876E-4CB5-89AE-82F7D72ED222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318F57F7-876E-4CB5-89AE-82F7D72ED222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318F57F7-876E-4CB5-89AE-82F7D72ED222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5E00B4-EBF6-4086-AECA-0AE7BC6DF525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5E00B4-EBF6-4086-AECA-0AE7BC6DF525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5E00B4-EBF6-4086-AECA-0AE7BC6DF525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5E00B4-EBF6-4086-AECA-0AE7BC6DF525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
